@@ -10,4 +10,4 @@ Mobile Developer
 
 ## GITHUB
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=williamtdepaula&hide=prs&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamtdepaula&layout=compact&hide=php&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamtdepaula&layout=compact&hide=php,java&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
